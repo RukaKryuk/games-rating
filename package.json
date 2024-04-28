@@ -1,0 +1,24 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RukaKryuk/weeek2.git"
+  },
+  "author": "RukaKryuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RukaKryuk/weeek2/issues"
+  },
+  "homepage": "https://github.com/RukaKryuk/weeek2#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
